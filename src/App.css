@@ -1,0 +1,81 @@
+.body {
+  font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+}
+
+.h4 {
+  font-weight: bold;
+}
+.p {
+  text-align: right;
+  padding: 0;
+}
+.shape {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 40px;
+  color: grey;
+}
+.buttons {
+  max-width: 800px;
+  position: fixed;
+  left: 740px;
+  top: 70px;
+}
+.search-btn {
+  background-color: rgb(27, 177, 237);
+  border-radius: 3px;
+  position: fixed;
+  left: 940px;
+  top: 70px;
+}
+.dayTime {
+  list-style: none;
+  font-size: 20px;
+  margin-left: -30px;
+}
+.wind {
+  max-width: 800px;
+  list-style: none;
+  font-size: 15px;
+  margin-left: 200px;
+}
+.day-icon {
+  font-size: 45px;
+}
+.link {
+  position: relative;
+  top: -20px;
+}
+.card-friday {
+  font-weight: bold;
+  font-size: 17px;
+}
+.card-day {
+  font-size: 17px;
+}
+.github {
+  margin-left: 240px;
+  text-decoration: none;
+}
+#temperature {
+  font-size: 45px;
+}
+#icon {
+  margin-top: -40px;
+  margin-left: -20px;
+}
+#c-link {
+  text-decoration: none;
+  color: grey;
+}
+#f-link {
+  text-decoration: none;
+  color: grey;
+}
+#developer {
+  color: black;
+}
